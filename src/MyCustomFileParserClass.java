@@ -1,7 +1,11 @@
 public class MyCustomFileParserClass {
-    public boolean findWord(String word){ return false;}
-    public boolean replaceWord(String word){return false;}
-    public boolean deleteWord(String word){return false;}
-    public boolean addWord(String word){return false;}
+    public void findWord(String word){
+    }
+    public void replaceWord(String word){
+    }
+    public void deleteWord(String word){
+    }
+    public void addWord(String word){
+    }
 
 }
